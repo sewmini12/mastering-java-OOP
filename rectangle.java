@@ -4,7 +4,7 @@
  *  each defaulting to  The class should include set and get
  *  methods for both attributes, and a method to calculate the area of the rectangle.
  */
-public class rectanngle {
+public class rectangle {
     private int length=5;
     private int width=10;
 
